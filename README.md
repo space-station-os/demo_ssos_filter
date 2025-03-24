@@ -1,4 +1,4 @@
-# demo_ssoc_filter
+# demo_ssos_filter
 
 This demo presents different filters to be used on space station. Mainly:
 - Frequency-selective Filters
